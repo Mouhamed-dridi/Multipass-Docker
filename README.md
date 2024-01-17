@@ -38,7 +38,24 @@ Install & manage Docker environments using Multipass Ubuntu LXC solution. ğŸ³ğŸ
 
 ### Stopping Instances
 
+
 To stop specific instances, run:
 
 ```bash
 multipass stop foo bar
+```
+
+## Install Docker and Portainer
+
+1. Run the `docker-install.sh` script to install Docker.
+
+   ```bash
+   ./docker-install.sh
+
+   ```
+2. Execute the `portainer-install.bash` script to install Portainer.
+
+   ```bash
+   ./portainer-install.bash
+
+
