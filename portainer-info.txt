@@ -1,0 +1,9 @@
+
+login : admin
+
+password : J3a#rL!pQ9z2
+
+
+# run the ifconfig to get your ip-add
+
+link : https://172.21.26.38:9443
