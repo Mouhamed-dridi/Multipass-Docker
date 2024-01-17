@@ -57,5 +57,10 @@ multipass stop foo bar
 
    ```bash
    ./portainer-install.bash
+   ```
+# Step 3: Check info file for relevant links and information
 
+3. Get your local IP address using ifconfig
+```bash
+cat info
 
