@@ -1,0 +1,6 @@
+# link
+http://172.21.233.104:3001/setup
+
+# password : 
+admin123
+
